@@ -1,0 +1,14 @@
+{
+ "format": 1,
+ "version": "2026.11.15-0012",
+ "published": "2026-11-15 00:12:31",
+ "notes": "Anneaux arc-en-ciel : ils restent apr\u00e8s usage, tout le monde peut les emprunter",
+ "files": {
+  "launcher": {
+   "path": "launcher/launcher.zip",
+   "sha256": "d9da708b2313153bdcf7420a949efb1581bb3018eb202a860826e10acf8b59b1",
+   "size": 8816504,
+   "jar_sha256": "37bb1d4bc86782763cf11c779c242089a2f75421a4a3538b3b0c5f49088a59eb"
+  }
+ }
+}
