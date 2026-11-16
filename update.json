@@ -1,0 +1,14 @@
+{
+ "format": 1,
+ "version": "2026.11.16-1737",
+ "published": "2026-11-16 17:37:46",
+ "notes": "Voix des persos synchro (attaques, sauts, level up... toutes les repliques). Tornades des persos vitesse visibles chez les autres. Gros rochers casses synchro. Mode solo : la jauge de vol est remontee autour de l'icone.",
+ "files": {
+  "launcher": {
+   "path": "launcher/launcher.zip",
+   "sha256": "0d9131f0e7feeac66bfdb2266fea6c402a16bf65f39694c0a61472c97f46314e",
+   "size": 8972240,
+   "jar_sha256": "1cb4a1247430d95be30707de0c525008f2ea294934e6c7141bc3d84c95e05e93"
+  }
+ }
+}
