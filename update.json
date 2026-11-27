@@ -1,0 +1,14 @@
+{
+ "format": 1,
+ "version": "2026.11.27-1739",
+ "published": "2026-11-27 17:39:36",
+ "notes": "Lag en jeu corrige : le reglage Frame_Rate de sonic_h.ini mettait les niveaux a 20 fps, le mod garde maintenant 60 fps.",
+ "files": {
+  "launcher": {
+   "path": "launcher/launcher.zip",
+   "sha256": "9cc09ae29d832bdaa03b92772dde9fad038fa8d7e4d386a42a9f761e4e6ffd0f",
+   "size": 9089607,
+   "jar_sha256": "8be4e79b3979395d8f1165d362b1ead34997a14646b59259b0051f7e3131ea8c"
+  }
+ }
+}
